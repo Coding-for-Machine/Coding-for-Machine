@@ -30,14 +30,18 @@ Currently building minimal container runtime from scratch using Linux namespaces
 </p>
 
 ---
-
 ## 🔥 Featured Project
 
-### 🐳 Container in Golang
+<div align="center">
+
+### Container in Golang 
+<img src="https://skillicons.dev/icons?i=docker" />
+
 Minimal container runtime built using Go & Linux namespaces.
 
 👉 https://github.com/Coding-for-Machine/container-in-golang
 
+</div>
 ---
 
 ## 📊 GitHub Intelligence
